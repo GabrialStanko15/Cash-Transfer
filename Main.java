@@ -12,6 +12,6 @@ import java.util.Scanner;
        double pinNumber = scan.nextDouble();
        System.out.println("Enter your cash amount");
        double amount = scan.nextDouble();
-       System.out.println("Thank you " + username + " your cash transfer was " + amount + ".");
+       System.out.println("Thank you " + username + " your cash transfer was $" + amount + ".");
      } // at the end of the the code simulation it will print thank you "username" your cash tranfer was "amount".
     }  
